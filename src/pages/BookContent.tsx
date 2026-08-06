@@ -11,32 +11,32 @@ interface Post {
 
 const posts: Post[] = [
   {
-    image: {`${import.meta.env.BASE_URL}releaseday.png`},
+    image: `${import.meta.env.BASE_URL}releaseday.png`,
     title: 'July 8 — Release Day!',
     link: 'https://www.instagram.com/theknightsofkusan/p/DahMaXWACTV/',
   },
   {
-    image: {`${import.meta.env.BASE_URL}oneweek.png`},
+    image: `${import.meta.env.BASE_URL}oneweek.png`,
     title: 'One Week of Publication Wrap-Up',
     link: 'https://www.instagram.com/theknightsofkusan/p/Da5Am45EV-r/',
   },
   {
-    image: {`${import.meta.env.BASE_URL}characterquotes.png`},
+    image: `${import.meta.env.BASE_URL}characterquotes.png`,
     title: 'Quotes from Each of my Characters',
     link: 'https://www.instagram.com/theknightsofkusan/p/Dag_pTtAMu6/',
   },
   {
-    image: {`${import.meta.env.BASE_URL}characterintros.png`},
+    image: `${import.meta.env.BASE_URL}characterintros.png`,
     title: 'Introducing my Characters! (Again)',
     link: 'https://www.instagram.com/theknightsofkusan/p/DQl5TM6gLwc/',
   },
   {
-    image: {`${import.meta.env.BASE_URL}mybook.png`},
+    image: `${import.meta.env.BASE_URL}mybook.png`,
     title: 'If my Book was/were...',
     link: 'https://www.instagram.com/theknightsofkusan/p/DPwiu83gHHL/',
   },
   {
-    image: {`${import.meta.env.BASE_URL}fantasybookrecs.png`},
+    image: `${import.meta.env.BASE_URL}fantasybookrecs.png`,
     title: 'My Fantasy Book Recommendations!',
     link: 'https://www.instagram.com/theknightsofkusan/p/DL5bPn6gPgG/',
   },
