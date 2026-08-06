@@ -150,7 +150,7 @@ export default function Book() {
               }}
             >
               <img
-                src="/book-cover.png"
+                src="`${import.meta.env.BASE_URL}book-cover.png`"
                 alt="The Knights of Kusan book cover"
                 className="w-full h-full object-cover"
               />
