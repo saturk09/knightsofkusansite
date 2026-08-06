@@ -43,7 +43,7 @@ export default function Home() {
           }}
         >
           <img
-            src="`${import.meta.env.BASE_URL}hero-image.png`"
+            src={`${import.meta.env.BASE_URL}hero-image.png`}
             alt="Sarah A. Turk"
             className="absolute inset-0 w-full h-full object-cover"
             style={{ display: heroImageLoaded ? 'block' : 'none' }}
