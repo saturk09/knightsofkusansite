@@ -254,7 +254,7 @@ export default function Book() {
               >
                 "
               </span>
-              She felt betrayed. The feeling was familiar to her, like an old semblance of a friend she had been hoping she’d lost.
+              We don't fight because we hate, we fight because we love.
               <span
                 className="block mt-3 text-sm not-italic tracking-widest uppercase"
                 style={{ fontFamily: "'Aboreto', cursive", color: 'var(--meadow-mauve)' }}
