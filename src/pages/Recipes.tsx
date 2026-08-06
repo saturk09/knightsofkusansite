@@ -10,7 +10,7 @@ interface Recipe {
 
 const recipes: Recipe[] = [
   {
-    image: '/apple.jpeg',
+    image: {`${import.meta.env.BASE_URL}/apple.jpeg`},
     imageAlt: 'Flaky apple-Filled Pastry, Dusted with Cinnamon',
     title: "Flaky Cinnamon-Dusted Apple-Filled Pastry",
     subtitle: 'The Knights of Kusan — Chapter 25',
